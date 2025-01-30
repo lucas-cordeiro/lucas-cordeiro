@@ -1,7 +1,7 @@
 # 👋 Hi there
 
 I'm Lucas Cordeiro, passionate about Android development. I love to learn about new technologies. <br>
-With 6 years of experience I have worked on several projects, from large companies with millions of users to startups, doing a little bit of everything over the years.<br>
+With 7 years of experience I have worked on several projects, from large companies with millions of users to startups, doing a little bit of everything over the years.<br>
 Recently I've been studying about Unity and a little more about the game industry.
 
 # 🚀 Expertise 
